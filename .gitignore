@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# project specific
+*.lnk
+*.spyderproject
+/data/**
+**/tmp/
+*.log
+logs/**
+
+# drafts
+__init.py__
+log.py
+MLP.py
